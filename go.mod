@@ -1,4 +1,4 @@
-module  github.com/zengjianjay/asc-go/asc
+module  github.com/zengjianjay/asc-go
 
 go 1.16
 
