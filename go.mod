@@ -1,4 +1,4 @@
-module github.com/cidertool/asc-go
+module  github.com/zengjianjay/asc-go/asc
 
 go 1.16
 
